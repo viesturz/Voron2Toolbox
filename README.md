@@ -1,7 +1,9 @@
 # Voron2Toolbox
-Wiring distribution box for multiple toolheads on Voron2
 
-Moving into a separate repo, because it's generic.
+Distribute canbus and power to muiltiple toolheads on Voron2. 
+
+Moving into a separate repo, to share among Tapchanger/Lite.
+
 
 ![Preview](/images/screenshot-front.png)
 
