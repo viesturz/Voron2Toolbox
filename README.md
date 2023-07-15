@@ -1,10 +1,24 @@
 # Voron2Toolbox
 
-Distribute canbus and power to muiltiple toolheads on Voron2. 
+Distribute canbus, power and filament to muiltiple toolheads on Voron2. Support both Stealthburner and Mini Stealthburner toolheads.
 
-Moving into a separate repo, to share among Tapchanger/Lite.
+## Building
 
+Most parts are ABS, with some TPU for flexibility.
 
-![Preview](/images/screenshot-front.png)
+1mm piano wire is used to shape the first half of each umbilical. The second half is free floating.
 
-![Preview](/images/screenshot.png)
+Use mini stealthburner canboard mounts from [KayosMaker](https://github.com/KayosMaker/CANboard_Mounts).
+
+See [Canbus wiring](./canbus_wiring.md) on how to wire up canbus.
+
+## Known issues - being worked on
+
+* Tricky to get the piano wire bend angle right.
+* Mini SB ubmilical sometimes braushes against other extruders.
+
+![Preview](/images/top.jpg)
+
+![Preview](/images/back.jpg)
+
+![Preview](/images/toolheads.jpg)
