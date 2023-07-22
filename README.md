@@ -16,7 +16,9 @@ See [Canbus wiring](./canbus_wiring.md) on how to wire up canbus.
 
 * Tricky to get the piano wire bend angle right.
 * Mini SB ubmilical sometimes braushes against other extruders.
+* Shield plate for SB mini toolboard.
 
+## Photos
 ![Preview](/images/top.jpg)
 
 ![Preview](/images/back.jpg)
